@@ -1,3 +1,3 @@
 # First-Repository
-My first Git Respository 
+This is my first Git Respository 
 Author Ruhul Amin
